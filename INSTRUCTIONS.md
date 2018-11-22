@@ -1,6 +1,6 @@
 This is our version of the original TLE5206 board, designed by @blurfl for the Maslow community, with the following modifications.
 
-    The PCB now is the same size and shape of the arduino.
+    The PCB is now the same size and shape of the arduino.
 
     The expansion or development connections are removed.
 
