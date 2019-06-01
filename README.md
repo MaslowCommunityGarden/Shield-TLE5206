@@ -4,9 +4,9 @@
 
 The new shield v1.4 offers many improvements over it's predecessor.
 
-Every single one, out of the three TLE5206 chips on the new v1.4 board is capable of driving more power than the whole old 1.2 shield!
+Every single one, out of the three TLE5206 chips on the new v1.4 board is capable of driving **more power than the whole old 1.2 shield!
 
-This v1.4 shield is in total almost 4 times more powerful than the older version, and uses one dedicated 5A (6A peak) for each motor, with stainless steel bolted and soldered heat-sinks for maximum heat protection.
+This v1.4 shield is in total almost **4 times more powerful than the older version**, it uses one dedicated 5A (6A peak) for each motor, with stainless steel bolted and soldered heat-sinks for maximum heat protection.
 
 It is made in USA with name brand components from authorized distributors, to ensure safety and performance.
  
