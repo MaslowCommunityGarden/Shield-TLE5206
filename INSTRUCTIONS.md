@@ -1,15 +1,20 @@
-This is our version of the original TLE5206 board, designed by @blurfl for the Maslow community, with the following modifications.
+The new shield v1.4 offers many improvements over it's predecessor.
 
-    The PCB is now the same size and shape of the arduino.
+Every single one chip, out of the three TLE5206 on the new v1.4 board is capable of driving more power than the whole old 1.2 shield!
 
-    The expansion or development connections are removed.
+    - 3 dedicated motor drivers, one chip (TLE5206) for each motor.
+    - Each chip delivers up to 5A continuous, 15A combined.
+    - Output full short circuit protected.
+    - Over temperature protection.
+    - Under voltage lockout.
+    - Bolted, bigger/better heat sink.
+    - 6 Months warranty
 
-    Added a new connection for a 12v fan.
 
-    Tracks are wider and we added a few more vias to improve connections.
 
-    Eliminated the third connector on the 12v male, to avoid a potential short circuit with the USB port on the arduino
-    (the third pin connector has no application on this board), pic 5.
+This v1.4 shield is in total almost 4 times more powerful than the older version, and uses one dedicated 5A (6A peak) for each motor, with stainless steel bolted and soldered heat-sinks (not sticker mounted as the v1.2) for maximum heat protection.
 
-    Moved the 12v track out from underneath the heat sink. The back plate of the TLE5206 is internally connected to ground,
-    having the 12v main track right underneath the heat sink (GND), could make it prone to short circuit.
+It is made in USA with name brand components from authorized distributors, to ensure safety and performance.
+
+    
+See more about the **old (1.2) vs new shield (v1.4) [HERE](https://www.eastbaysource.com/blogs/product-info/product-detail)**
