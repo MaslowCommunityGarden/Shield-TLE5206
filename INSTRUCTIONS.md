@@ -1,6 +1,6 @@
 The new shield v1.4 offers many improvements over it's predecessor.
 
-Every single one chip, out of the three TLE5206 on the new v1.4 board is capable of driving more power than the whole old 1.2 shield!
+Every single one chip, out of the three TLE5206 on the latest v1.4 board is capable of driving more power than the whole old 1.2 shield!
 
 - 3 dedicated motor drivers, one chip (TLE5206) for each motor.
 - Each chip delivers up to 5A continuous, 15A combined.
