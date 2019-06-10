@@ -10,5 +10,5 @@ This v1.4 shield is in total almost **4 times more powerful than the older versi
 
 It is made in USA with name brand components from authorized distributors, to ensure safety and performance.
  
- Visit EastBaySource.com(https://www.eastbaysource.com/products/power-control-shield-based-on-the-tle5206-h-bridge-from-infineon-technologies) to purchase.
+ Visit [EastBaySource.com](https://www.eastbaysource.com/products/power-control-shield-based-on-the-tle5206-h-bridge-from-infineon-technologies) to purchase.
  More info [HERE](https://www.eastbaysource.com/blogs/product-info/product-detail)
