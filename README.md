@@ -1,8 +1,6 @@
 # Shield v1.4 TLE5206
 
-
-
-The new shield v1.4 offers many improvements over it's predecessor.
+The latest shield v1.4 offers many improvements over it's predecessor.
 
 Every single one, out of the three TLE5206 chips on the new v1.4 board is capable of driving **more power than the whole old 1.2 shield!
 
