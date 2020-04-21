@@ -2,9 +2,11 @@
 
 The latest shield v1.4 offers many improvements over it's predecessor.
 
-Every single one, out of the three TLE5206 chips on the new v1.4 board is capable of driving **more power than the whole old 1.2 shield!
+It uses **three high power** TLE5206 chips (one for each motor) in contrast to **two low power** L298P on the old v1.2 
+Each single chip on the new board v1.4 is capable of deliver more power than entire old shield v1.2.
 
-This v1.4 shield is in total almost **4 times more powerful than the older version**, it uses one dedicated 5A (6A peak) for each motor, with stainless steel bolted and soldered heat-sinks for maximum heat protection.
+It is overbuilt to last and will allow you to cut all day long high up on the board without fail or slow down the sled.
+You can rest assured that this new shield will be up to the most demanding jobs, while performing well between safe operating margins.
 
 Made in USA with name brand components from authorized distributors to ensure safety and performance. 
  
